@@ -70,6 +70,7 @@ packages:
 - scipy
 - pylogit
 - tqdm
+- scikit-learn
 channels:
 - conda-forge
 
