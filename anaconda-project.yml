@@ -69,6 +69,7 @@ packages:
 - numpy
 - scipy
 - pylogit
+- tqdm
 channels:
 - conda-forge
 
