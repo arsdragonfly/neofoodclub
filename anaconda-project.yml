@@ -71,6 +71,7 @@ packages:
 - pylogit
 - tqdm
 - scikit-learn
+- coloraide
 channels:
 - conda-forge
 
